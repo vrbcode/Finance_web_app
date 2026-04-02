@@ -3,7 +3,7 @@
 
 ## Overview
 
-FAInance is a web application that leverages artificial intelligence to provide forecasting capabilities. Built with modern web technologies, it delivers financial insights and predictive analytics.
+Fainance is a web application that leverages artificial intelligence to provide forecasting capabilities. Built with modern web technologies, it delivers financial insights and predictive analytics.
 
 ## Key Features
 
