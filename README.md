@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/26447281/README.md)
-# FAInance - AI-Powered Financial Management Platform
+# Prem Sharma's - AI-Powered Financial Management Platform
 
 ## Overview
 
